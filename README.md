@@ -1,9 +1,9 @@
 Assignment 3 — Optimization of a City Transportation Network (Minimum Spanning Tree)
 
-Student: Елдос Жанабек
+Student: Zhanabek Eldos
 Group: SE-2401
 Course: Design and Analysis of Algorithms
-Year: 2025
+
 
 Objective
 
